@@ -1,0 +1,3 @@
+dificuldades com o git | github
+ainda com dúvidas referente a Getters e Setters
+precisando da algumas tarefas práticas
